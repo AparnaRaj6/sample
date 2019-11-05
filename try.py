@@ -9,3 +9,5 @@ data = pd.DataFrame({'col_1': [3, 2, 1, 0, 5 , 8 , 9], 'col_2': ['a', 'b', 'c', 
 data.head()
 print('Deepanshu is a genius')
 print('flower')
+print('rainbow')
+print('rainbow')
